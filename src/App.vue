@@ -70,7 +70,7 @@
         <div class="flex items-center flex-col space-y-6 text-center border p-8 rounded-xl">
           <img src="./img/circle.svg" alt="">
           <h2 class="text-xl font-semibold">Monthly users in your site</h2>
-          <h1 class="text-cyan-600 font-bold text-3xl">1.0286</h1>
+          <h1 class="text-sky-500 font-bold text-3xl">1.0286</h1>
           <p class="text-gray-400 font-sm">We accompany you with our<br> versatile expertise in digital marketing</p>
         </div>
         <div class="bg-yellow-50 flex flex-col items-center text-center space-y-6 pb-6">
