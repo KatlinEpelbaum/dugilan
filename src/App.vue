@@ -73,7 +73,7 @@
           <h1 class="text-sky-500 font-bold text-3xl">1.0286</h1>
           <p class="text-gray-400 font-sm">We accompany you with our<br> versatile expertise in digital marketing</p>
         </div>
-        <div class="bg-yellow-50 flex flex-col items-center text-center space-y-6 pb-6">
+        <div class="bg-yellow-50 flex flex-col items-center text-center space-y-6 pb-6 rounded-lg">
           <img src="./img/squarespace.png" alt="">
           <p>Create your beautiful portfolio<br> website with Squarespace. Start<br> your free trial.</p>
           <p>Ads via Carbon</p>
